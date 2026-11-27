@@ -261,3 +261,19 @@ We would love you to contribute to **RoughSwift**, check the [CONTRIBUTING](http
 ## License
 
 **RoughSwift** is available under the MIT license. See the [LICENSE](https://github.com/onmyway133/RoughSwift/blob/master/LICENSE.md) file for more info.
+
+
+## Sponsors
+
+Does your company use RoughSwift? Consider becoming a sponsor to support maintenance.
+
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/AdamBarah)
+
+### Gold Sponsors
+<!-- Gold sponsors get logo placement here -->
+
+### Silver Sponsors
+<!-- Silver sponsors get logo placement here -->
+
+### Backers
+Thank you to every individual backer on GitHub Sponsors! Your support means the world.
